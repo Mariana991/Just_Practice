@@ -5,5 +5,6 @@ public class userStory42 {
         System.out.println("Hello there");
         System.out.println("Something else");
         System.out.println("third thing in a row");
+        System.out.println("one more time");
     }
 }
